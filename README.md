@@ -1,14 +1,14 @@
 # Pink-Wasteland
 An osu! skin, being updated occasionally.
-
+--
 Pink Wasteland Readme / Changelog
 - 4/27/2017
 - Skin "release"
 - 4/28/2017
 - New "Section Fail" and "Section Pass" visuals
 - Changed Score + Combo font
-
-Readme
+--
+- Readme
 at the moment this is a widescreen only skin, it WILL NOT work on anything lower than 1280x720
 
 You can find extra elements for customization purposes in the folders at the top of the skin
